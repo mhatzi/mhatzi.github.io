@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page.md)
-<a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="300" height="214" border="0"></a>
+<a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="600" height="1200" border="0"></a>
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
