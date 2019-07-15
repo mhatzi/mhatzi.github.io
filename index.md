@@ -19,7 +19,7 @@
 ---
 ### Python Codes
 [How To Plot Cheat Sheet](/matplotlib_jupyter.md)
-<a href="images/image.jpg"><img src="images/Matplotlib.JPG" width="500" height="600" border="0"></a>
+<a href="images/image.jpg"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
 
 ---
