@@ -9,7 +9,10 @@ ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
+<<<<<<< HEAD
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Me](images/Me.jpg)
+>>>>>>> 4c1af332e55de50bca81c8f46607633d41f62315
 
 ### Markdown
 
