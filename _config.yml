@@ -3,7 +3,6 @@ logo: "/images/Me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i>An aerospace engineer with a knack for automation.</i>
   <br>
-  <html>
 <head>
 <style>
 p.small {
