@@ -15,7 +15,7 @@
 ---
 ### Python Codes
 [How To Plot Cheat Sheet](/pdf/Matplotlibcheatsheet.pdf)
-<a href="images/image.jpg"><img src="images/Matplotlibcheatsheet.pdf" width="500" height="600" border="0"></a>
+<a href="images/image.jpg"><img src="pdf/Matplotlibcheatsheet.pdf" width="500" height="600" border="0"></a>
 
 ---
 
