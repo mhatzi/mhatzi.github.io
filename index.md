@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/sample_page.md)
+<a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0"></a>
+<!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
