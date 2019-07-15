@@ -2,29 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Robotics 
 
 [Intelligent Ground Vehicle](/Sparky.md)
 <a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0"></a>
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mechatronics](/pdf/sample_page.md)
+<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Python Codes
+[How To Plot Cheat Sheet](/pdf/Matplotlibcheatsheet.pdf)
+<a href="images/image.jpg"><img src="pdf/Matplotlibcheatsheet.pdf" width="500" height="600" border="0"></a>
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### Awards & Recognition
+- [Distinguished Presenter](http://example.com/)
+- [Excellence in Engineering](http://example.com/)
+- [TALON Award](http://example.com/)
+- [Passed Fundamental Engineering Exam](http://example.com/)
 
 ---
 
