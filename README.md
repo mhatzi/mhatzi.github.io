@@ -8,5 +8,5 @@ This has always been a motto I've lived by. Whether it comes to coding
 
 
 
-![Me](images\Me.jpg)
+![Me](images/Me.jpg)
 
