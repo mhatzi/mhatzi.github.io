@@ -1,12 +1,10 @@
 title: Meghan Hatzipetro # your name (or website title) here
 logo: "/images/Me.jpg?raw=true" # your photo (or logo) here
-line-height: .7
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i>An aerospace engineer with a knack for automation.</i>
   <br>
 <p>
   My background is in Engineering with a mechanical specialization. Being a very sociable person, I enjoy interactions, whether those interactions are collaborating on a project, code interacting with hardware, or just plain chemical, .<br>
-  I'm currently seeking a systems engineering position.
   <br>
   ###Languages
   <b>Visual Basic</b> Python <b>C/C++</b> MATLAB <b>Fortran</b>
