@@ -3,11 +3,19 @@ logo: "/images/Me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i>An aerospace engineer with a knack for automation.</i>
   <br>
+  <html>
+<head>
+<style>
+p.small {
+  line-height: 0.7;
+}
+<p>
   My background is in Engineering with a mechanical specialization. Being a very sociable person, I enjoy interactions, whether those interactions are collaborating on a project, code interacting with hardware, or just plain chemical, .<br>
   I'm currently seeking a systems engineering position.
   <br>
   ###Languages
   <b>Visual Basic</b> Python <b>C/C++</b> MATLAB <b>Fortran</b>
+  </p>
   <a href="https://www.linkedin.com/in/meghan-hatzipetro-881522b0/">Interact with me on Linked In</a> 
   <a href="mailto:Mhatzipetro310@g.rwu.edu?Subject=I%20saw%20your%Page" target="_top">Interact with me via Email</a>
 theme: jekyll-theme-minimal
