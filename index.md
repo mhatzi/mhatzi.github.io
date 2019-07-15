@@ -13,17 +13,20 @@
 <a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
+### Python Codes
+[How To Plot Cheat Sheet](/pdf/Matplotlibcheatsheet.pdf)
+<a href="images/image.jpg"><img src="images/Matplotlibcheatsheet.pdf" width="500" height="600" border="0"></a>
+
+---
 
 
 ---
 
 ### Awards & Recognition
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Distinguished Presenter](http://example.com/)
+- [Excellence in Engineering](http://example.com/)
+- [TALON Award](http://example.com/)
+- [Passed Fundamental Engineering Exam](http://example.com/)
 
 ---
 
