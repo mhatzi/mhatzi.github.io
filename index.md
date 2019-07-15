@@ -2,23 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Robotics 
 
 [Intelligent Ground Vehicle](/Sparky.md)
 <a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0"></a>
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mechatronics](/pdf/sample_presentation.pdf)
+<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
 
-### Category Name 2
+
+---
+
+### Awards & Recognition
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
