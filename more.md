@@ -7,7 +7,7 @@ everything from motorsports and skiing to gardening and baking. Although I tend 
 
 <span title="I swear it tastes better than it looks"><img src="images/Baklava.jpg" width="500" height="600" border="0"><br></span>
 <span title="I have yet to master skiing"><img src="images/skiing.jpeg" width="500" height="600" border="0"><br></span>
-<span title="And now you've seen me scared out of my mind"><img src="images/snake.jpg" width="400" height="600" border="0"><br></span>
+<span title="And now you've seen me scared out of my mind"><img src="images/snake.jpg" width="500" height="650" border="0"><br></span>
 
 <br>
 <br>
