@@ -13,18 +13,18 @@
 <a href="/Mechatronics.html"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
-[Miscellaneous](/pdf/Misc.md)
+[Miscellaneous](/Misc.md)
 <a href="/Misc.html;"><img src="images/makehartford.jpg" width="500" height="600" border="0"></a>
 
 ---
-### Python Codes
-[How To Plot Cheat Sheet](/Misc.md)
+### Example Python Code
+[How To Plot Cheat Sheet](/Python.md)
 <a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
-
 ---
-
-
+### Example MATLAB Code
+[1 Dimmensional Fin Heat Transfer](/MATLAB.md)
+<a href="/MATLAB.html"><img src="images/HTComparison.jpg" width="600" height="400" border="0"></a>
 ---
 
 ### Awards & Recognition
