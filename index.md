@@ -5,7 +5,7 @@
 ### Robotics 
 
 [Intelligent Ground Vehicle](/Sparky.md)
-<a href="images/image.jpg"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0">()</a>
+<a href="/Sparky.md"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0">()</a>
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
