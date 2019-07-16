@@ -18,8 +18,8 @@
 
 ---
 ### Python Codes
-[How To Plot Cheat Sheet](/matplotlib_jupyter.md)
-<a href="images/image.jpg"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
+[How To Plot Cheat Sheet](/Python.md)
+<a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
 
 ---
