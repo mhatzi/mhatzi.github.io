@@ -10,3 +10,5 @@ everything from motorsports and skiing to gardening and baking. Although I tend 
 <span title="And now you've seen me scared out of my mind"><img src="images/snake.jpg" width="500" height="600" border="0"><br></span>
 
 <br>
+<br>
+[Go Back](https://mhatzi.github.io/)
