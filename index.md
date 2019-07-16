@@ -25,8 +25,8 @@
 ### Example MATLAB Code
 [1 Dimmensional Fin Heat Transfer](/MATLAB.md)
 <a href="/MATLAB.html"><img src="images/HTComparison.jpg" width="600" height="400" border="0"></a>
+<br>
 ---
-
 ### Awards & Recognition
 - [Distinguished Presenter](http://example.com/)
 - [Excellence in Engineering](http://example.com/)
