@@ -11,6 +11,8 @@ I've also provided my jupyter notebook in an attempt to make things easier.
 
 <a href="https://github.com/mhatzi/MatplotlibGuide"><img src="images/Matplotlib.JPG" width="500" height="363" border="0"></a><br>
 [Link to Download](https://github.com/mhatzi/MatplotlibGuide)
+<br>
+[Go Back](https://mhatzi.github.io/)
 
 
 

@@ -14,7 +14,7 @@
 
 ---
 [Miscellaneous](/Misc.md)
-<a href="/Misc.html;"><img src="images/makehartford.jpg" width="500" height="600" border="0"></a>
+<a href="/Misc.html"><img src="images/makehartford.jpg" width="500" height="600" border="0"></a>
 
 ---
 ### Example Python Code
