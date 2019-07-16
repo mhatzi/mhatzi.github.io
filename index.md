@@ -9,8 +9,8 @@
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
-[Mechatronics](/pdf/sample_page.md)
-<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
+[Mechatronics](/Mechatronics.md)
+<a href="/Mechatronics.html"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
 [Miscellaneous](/pdf/sample_page.md)
