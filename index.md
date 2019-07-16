@@ -5,21 +5,21 @@
 ### Robotics 
 
 [Intelligent Ground Vehicle](/Sparky.md)
-<a href="/Sparky.html"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0">
+<a href="/Sparky.html"><img src="images/Sparky_Wiring.jpg" width="500" height="600" border="0"></a>
 <!-- <img src="images/Sparky_Wiring.jpg?raw=true" idth="300" height="214"/> -->
 
 ---
 [Mechatronics](/Mechatronics.md)
-<a href="/Mechatronics.html"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0">
+<a href="/Mechatronics.html"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
 [Miscellaneous](/pdf/sample_page.md)
-<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0">
+<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
 ### Python Codes
 [How To Plot Cheat Sheet](/Python.md)
-<a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0">
+<a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
 
 ---
