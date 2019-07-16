@@ -29,9 +29,9 @@
 ---
 ### Awards & Recognition
 - [Distinguished Presenter](http://example.com/)
-- [Excellence in Engineering](http://example.com/)
-- [TALON Award](http://example.com/)
-- [Passed Fundamental Engineering Exam](http://example.com/)
+- [Excellence in Engineering](/EngineeringExcellence.md)
+- [TALON Award](/TALON.md)
+- [Passed Fundamental Engineering Exam](/FE.md)
 
 ---
 
