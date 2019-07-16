@@ -21,13 +21,10 @@
 [How To Plot Cheat Sheet](/Python.md)
 <a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
-
-### Example MATLAB
-[1 Dimmension Fin Heat Transfer](/MATLAB.md)
-<a href="/MATLAB.html"><img src="images/HTComparison.jpg" width="600" height="400" border="0"></a>
 ---
-
-
+### Example MATLAB Code
+[1 Dimmensional Fin Heat Transfer](/MATLAB.md)
+<a href="/MATLAB.html"><img src="images/HTComparison.jpg" width="600" height="400" border="0"></a>
 ---
 
 ### Awards & Recognition
