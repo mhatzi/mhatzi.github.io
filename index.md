@@ -13,12 +13,12 @@
 <a href="/Mechatronics.html"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
 
 ---
-[Miscellaneous](/pdf/sample_page.md)
-<a href="images/image.jpg"><img src="images/Mechatronics_Robot.jpg" width="500" height="600" border="0"></a>
+[Miscellaneous](/pdf/Misc.md)
+<a href="/Misc.htm;"><img src="images/makehartford.jpg" width="500" height="600" border="0"></a>
 
 ---
 ### Python Codes
-[How To Plot Cheat Sheet](/Python.md)
+[How To Plot Cheat Sheet](/Misc.md)
 <a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
 
 
