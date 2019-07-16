@@ -10,7 +10,7 @@ I've also provided my jupyter notebook in an attempt to make things easier.
 
 
 <a href="https://github.com/mhatzi/MatplotlibGuide"><img src="images/Matplotlib.JPG" width="800" height="600" border="0"></a>
-[Link to Github Repo](https://github.com/mhatzi/MatplotlibGuide)
+[Link to Download](https://github.com/mhatzi/MatplotlibGuide)
 
 
 
