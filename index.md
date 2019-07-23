@@ -20,6 +20,8 @@
 ### Example Python Code
 [How To Plot Cheat Sheet](/Python.md)
 <a href="/Python.html"><img src="images/Matplotlib.JPG" width="600" height="400" border="0"></a>
+[Automated Picture Pulling Tool](/Python.md)
+<a href="/Python.html"><img src="images/PPT.JPG" width="400" height="250" border="0"></a><br>
 
 ---
 ### Example MATLAB Code
